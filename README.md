@@ -1,4 +1,4 @@
-# LAMBRA-AUTODV
+# BN-AUTODV
 <img src ="https://i.imgur.com/Cmd3LHo.png" width="640" height="360">
 <b>FiveM Standalone Resource</b>.<br>
 It will delete every 30Mins (Configurable) every existent vehicle entity across your whole map including other buckets/dimensions.
